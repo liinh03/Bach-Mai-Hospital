@@ -7,7 +7,7 @@ Dự án kiểm thử thủ công hệ thống quản lý khám chữa bệnh t�
 - **Project Type:** Personal Project / Graduation Project
 - **Role:** Manual Tester
 - **Testing Type:** Functional Testing, UI Testing
-- **Test Management Tools:** Jira, Zephyr, Google Sheets
+- **Test Management Tools:** Jira, Zephyr
 
 ## 2. Testing Objectives
 - Đánh giá hoạt động của các chức năng trong phạm vi kiểm thử.
@@ -23,7 +23,7 @@ Các chức năng được kiểm thử:
 - Quản lý bệnh nhân
 - Quản lý thuốc
 - Quản lý giấy khám bệnh
-- Quản lý phiếu cận lâm sàng
+- Quản lý thẻ bảo hiểm y tế
 - Quản lý lịch làm việc bác sĩ
 
 ## 4. My Responsibilities
